@@ -1,0 +1,62 @@
+body{
+    margin:0px;
+   
+}
+#header_block_parent{
+    background-color: blue;
+
+}
+#header_block{
+    
+    height: 50px;
+    width:80%;
+    margin: 0 auto;
+}
+#logo img{
+    width: 110px;
+}
+#logo{
+    width: 10%;
+    float: left;
+    margin: 10px 10px 0px 0px;
+}
+#Search{
+    width:50%;
+    float: left;
+    margin: 7px;
+    font-size: 11px;
+}
+#loginblock{
+    width:30%;
+    float: right;
+    text-align: right;
+    margin: 14px 0;
+    color: whitesmoke;
+    
+}
+#Search input{
+padding: 10px;
+border-radius: 1px;
+border: 0ch;
+outline: 0ch;
+height: 15;
+width: 70%;
+margin: 0%;
+}
+.fa{
+    float: right;
+    position: relative;
+    left: -150px;
+    margin: 8px;
+}
+.Search_icon{
+    font-size: 150%;
+
+}
+.shopping-cart{
+    float: right;
+    position: relative;
+    left:170px;
+    bottom: 8px;
+
+}

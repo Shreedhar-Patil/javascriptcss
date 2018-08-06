@@ -1,0 +1,31 @@
+
+ .test{
+    border: 1px solid red;
+    width:30%;
+    float:left;
+    margin: 14px;
+    padding: 40px 0px; 
+    text-align: center;
+    box-shadow: inset 10px 1px 10px 1px red;
+    border-radius: 20px;
+    text-shadow: 3px 3px 3px red;
+    /* text-indent: -100px; */
+    text-decoration: underline skyblue; 
+ }
+
+.test:hover{
+    background:black;
+    
+}
+.test1{
+    background: lightcyan;
+    
+}
+.test2{
+   background: lightgoldenrodyellow;
+    
+}
+.test3{
+    background: lightgrey;
+    
+} 
